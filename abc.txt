@@ -1,1 +1,2 @@
 content of file4
+line 2
